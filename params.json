@@ -1,6 +1,6 @@
 {
   "name": "Typographica",
   "tagline": "Some thoughts on fonts",
-  "body": "## Introduction\r\n\r\nIn this page, I would like to offer some thoughts on font families and probably some free fonts.\r\n\r\nMy background isn’t graphical design, but digital editing texts. I love book typesetting. I don’t have a printing press, but a computer. [ConTeXt](http://contextgarden.net) and [`pandoc`](http://pandoc.org) are the main tools [I use](http://from-pandoc-to-context.tk).\r\n\r\nAs life itself, this page will always be work in progress. I hope to update it frequently, but time will tell.",
+  "body": "## Introduction\r\n\r\nIn this page, I would like to offer some thoughts on font families and probably some free fonts.\r\n\r\nMy background isn’t graphical design, but digital editing texts. I love book typesetting. I don’t have a printing press, but a computer. [ConTeXt](http://contextgarden.net) and [`pandoc`](http://pandoc.org) are the main tools I use. A sample of what can be done with them is located at <http://www.from-pandoc-to-context.tk>.\r\n\r\nAs life itself, this page will always be work in progress. I hope to update it frequently, but only time will tell.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
